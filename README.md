@@ -1,10 +1,4 @@
 # TRABAJO CATEDRA 01 PROGRAMACION EN R
----
-title: "Catedra01"
-format: html
-editor: visual
----
-
 ## DATA OPERACIONAL SISTEMA DE TRANSPORTE DE CONCENTRADO POR LINEA PRESURIZADA {style="color:gray"}
 
 **Realizado por: Paula Alvarez - Marcelo Carmona**
