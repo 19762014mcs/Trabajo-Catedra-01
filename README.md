@@ -3,6 +3,7 @@
 
 **Realizado por: Paula Alvarez - Marcelo Carmona**
 
+https://login.posit.cloud/invite?code=9XG8BkVH0o8oxEv7kmMoRfDi66gHipj02D_kfkhV&space_name=Trabajo_Catedra01
 ### Contexto 
 
 El concentrado de cobre es transportado a través de cañerias de acero al carbono de alta resistencia API 5L X65 con revestimiento interior de HDPE. La impulsion inicia en el pk 0,0 a partir de los estanques de almacenamiento de concentrado "Holding Tank" y ubicados en la cota de terreno 2.235 msnm, en la estación de bombeo (EB). Desde este punto, y hasta el km 22 la tubería continúa por zona de pendientes relativamente altas. Desde su inicio y hasta el km 15,9 (km 15,916), la tubería tiene un diámetro nominal de 7,00 pulgadas. A partir de este punto, y hasta el pk 36,6 (km 36,587) la tubería cambia su diámetro nominal a 8,00 pulgadas, producto de una modificación en el diseño original ejecutado el año 2016. Desde el km 22, el trazado presenta un tramo largo por un valle de bajas pendientes hasta llegar a al kilómetro 91,9 donde se encuentra emplazada la estación de válvulas N°1, EV1. Entre la estación de válvulas EV1 y EV2 ubicada en el pk 134,9 se encuentra una depresión que finalmente se empina hasta llegar a la estación disipadora terminal EDT. Desde la estación EV2 hasta la estación EDT, el Concentraducto tiene un diámetro de 5,56 pulgadas nominales.
