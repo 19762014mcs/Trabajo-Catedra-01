@@ -3,7 +3,7 @@
 
 **Realizado por: Paula Alvarez - Marcelo Carmona**
 
-<a href="https://login.posit.cloud/invite?code=9XG8BkVH0o8oxEv7kmMoRfDi66gHipj02D_kfkhV&space_name=Trabajo_Catedra01">Enlace Posit Cloud</a>
+<a href="https://login.posit.cloud/invite?code=9XG8BkVH0o8oxEv7kmMoRfDi66gHipj02D_kfkhV&space_name=Trabajo_Catedra01" target="_blank">Enlace Posit Cloud</a>
 
 ### Contexto 
 
